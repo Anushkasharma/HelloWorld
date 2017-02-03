@@ -1,0 +1,17 @@
+pairs:
+    jv: John Verrone; john_verrone
+    ad: Alex Duncan; alex_duncan
+    mr: Margo Roy; margo_roy2
+    ns: Neil Shannon; neil_shannon1
+    mj: Sheen Jacob; sheen_jacob
+    yk: Yuriy Kozubskyi; yuriy_kozubskyi
+    as: Anushka Sharma; anushka_sharma
+    ow: Omie Walls; omie_r_walls
+    ss: Sydney Smith; sydney_s_smith
+    cd: Chad Davis; chad_davis1
+    jw: Jared Whigham; jared_m_whigham
+email:
+    prefix: pair
+    domain: homedepot.com
+    no_solo_prefix: true
+global: false
